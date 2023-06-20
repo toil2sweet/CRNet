@@ -1,6 +1,6 @@
 # CRNet
-This repository provides a simple implementation of our work entitled **CRNet: A Fast Continual Learning Framework with Random Theory** (TPAMI 2023)
-https://ieeexplore.ieee.org/abstract/document/10086692
+This repository provides a simple implementation of our work entitled **CRNet: A Fast Continual Learning Framework with Random Theory** ([TPAMI 2023](https://ieeexplore.ieee.org/document/10086692/))
+
 
 ## Installation & Requirements
 The current version of the codes has been tested with Python 3.7.13 on both Windows and Linux operating systems with the following versions of  requirements:

@@ -19,7 +19,7 @@ Please create an environment to run the basic code: python CRNet_I_MR.py
 The default setting *performs Multiple Runs under five random task orderings*, as reported in our experiments.
 
 
-##  Citation
+##  Please Cite
 ```
 @article{li2023CRNet,
   title={{CRNet}: A Fast Continual Learning Framework With Random Theory}, 

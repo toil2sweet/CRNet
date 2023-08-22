@@ -25,9 +25,11 @@ The default setting *performs Multiple Runs under five random task orderings*, a
   title={{CRNet}: A Fast Continual Learning Framework With Random Theory}, 
   author={Li, Depeng and Zeng, Zhigang},
   journal={IEEE Transactions on Pattern Analysis and Machine Intelligence}, 
-  year={2023},
-  note={Doi: 10.1109/TPAMI.2023.3262853},
-  publisher={IEEE}
+  volume={45},
+	number={9},
+	pages={10731--10744},
+	year={2023},
+	publisher={IEEE}
 }
 ```
 

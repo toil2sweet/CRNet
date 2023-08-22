@@ -26,10 +26,10 @@ The default setting *performs Multiple Runs under five random task orderings*, a
   author={Li, Depeng and Zeng, Zhigang},
   journal={IEEE Transactions on Pattern Analysis and Machine Intelligence}, 
   volume={45},
-	number={9},
-	pages={10731--10744},
-	year={2023},
-	publisher={IEEE}
+  number={9},
+  pages={10731--10744},
+  year={2023},
+  publisher={IEEE}
 }
 ```
 
